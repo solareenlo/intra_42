@@ -1,4 +1,13 @@
 # Intra 42
+
+## ToDo
+- First Circle map update
+- Add map of the 42 Tokyo campus.
+
+↓ original
+---
+
+# Intra 42
 ![Release](https://img.shields.io/github/release/femaury/Intra_42.svg)
 ![License](https://img.shields.io/github/license/femaury/Intra_42.svg?color=green)
 ![Top Language](https://img.shields.io/github/languages/top/femaury/Intra_42.svg)
@@ -8,11 +17,11 @@
 
 <img src="https://github.com/femaury/intra_42/raw/master/Screenshots/intra_42_main_screens_white.jpg"
      title="Intra 42 by Felix Maury" width="800">
-     
+
 ### Swift app for 42's intranet
 
-This is a swift learning project for myself. I started it to give native access to the intranet to 42's iOS users, as there were no such apps on the App Store.  
-Feel free to create issues or pull requests to contribute!  
+This is a swift learning project for myself. I started it to give native access to the intranet to 42's iOS users, as there were no such apps on the App Store.
+Feel free to create issues or pull requests to contribute!
 
 #### Known issues [Live Build]
 
@@ -129,7 +138,7 @@ You will also need to install [SwiftLint](https://github.com/realm/SwiftLint).
   <li>Shows online users first, and always ordered by project grade</li>
   </ul>
   </details>
-  
-  ## Contact Me
-  
- You can send me a mail at femaury@student.42.fr or find me on 42's slack as 'femaury' 😉
+
+## Contact Me
+
+You can send me a mail at femaury@student.42.fr or find me on 42's slack as 'femaury' 😉
