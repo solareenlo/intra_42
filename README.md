@@ -1,8 +1,8 @@
 # Intra 42
 
 ## ToDo
-- [] First Circle map update
-- [] Add map of the 42 Tokyo campus.
+- [ ] First Circle map update
+- [ ] Add map of the 42 Tokyo campus.
 
 ↓ original
 ---
